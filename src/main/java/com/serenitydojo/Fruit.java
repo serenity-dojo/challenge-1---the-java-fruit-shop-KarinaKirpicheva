@@ -1,5 +1,5 @@
 package com.serenitydojo;
 
 public enum Fruit {
-    Apple, Orange, Banana, Pear
+    Apple, Orange, Banana, Pear, cart, Lemon
 }
